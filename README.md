@@ -1,5 +1,8 @@
 # Assigment Sequelize App Food
 
+- Database food: [db_food](./db_food.sql)
+- Author: Khang Nguyen
+
 ## User
 
 - [x] Get a list of restaurants favorited by a user
